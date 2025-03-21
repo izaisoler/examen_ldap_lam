@@ -8,9 +8,9 @@ services:
     image: osixia/openldap:latest
     container_name: openldap
     environment:
-      LDAP_BASE_DN: "dc=example,dc=org"
+      LDAP_BASE_DN: "dc=soler,dc=org"
       LDAP_ORGANISATION: "Example Organization"
-      LDAP_DOMAIN: "example.org"
+      LDAP_DOMAIN: "soler.org"
       LDAP_ADMIN_PASSWORD: "admin"
       LDAP_TLS: "false"             # deactivate TLS for the LDAP server
     volumes:

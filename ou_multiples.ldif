@@ -1,0 +1,132 @@
+
+# Organisational unit for directores department
+dn: ou=directores,dc=soler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: directores
+
+# Organisational unit for profesores department
+dn: ou=profesores,dc=soler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: profesores
+
+# Organisational unit for alumnos department
+dn: ou=alumnos,dc=soler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: alumnos
+
+# Organisational unit for personalnodocente department
+dn: ou=personalnodocente,dc=soler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: personalnodocente
+
+# Organisational unit for eso1 department
+dn: ou=eso1,dc=soler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: eso1
+
+# Organisational unit for eso2 department
+dn: ou=eso2,dc=soler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: eso2
+
+# Organisational unit for eso3 department
+dn: ou=eso3,dc=soler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: eso3
+
+# Organisational unit for eso4 department
+dn: ou=eso4,dc=soler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: eso4
+
+# Organisational unit for bach1ciencias department
+dn: ou=bach1ciencias,dc=soler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: bach1ciencias
+
+# Organisational unit for bach1humanidades department
+dn: ou=bach1humanidades,dc=soler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: bach1humanidades
+
+# Organisational unit for bach2ciencias department
+dn: ou=bach2ciencias,dc=soler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: bach2ciencias
+
+# Organisational unit for bach2humanidades department
+dn: ou=bach2humanidades,dc=soler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: bach2humanidades
+
+# Organisational unit for profesoreseso department
+dn: ou=profesoreseso,dc=soler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: profesoreseso
+
+# Organisational unit for profesoresbach department
+dn: ou=profesoresbach,dc=soler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: profesoresbach
+
+# Organisational unit for profesoreseso1 department
+dn: ou=profesoreseso1,dc=soler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: profesoreseso1
+
+# Organisational unit for profesoreseso2 department
+dn: ou=profesoreseso2,dc=soler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: profesoreseso2
+
+# Organisational unit for profesoreseso3 department
+dn: ou=profesoreseso3,dc=soler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: profesoreseso3
+
+# Organisational unit for profesoreseso4 department
+dn: ou=profesoreseso4,dc=soler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: profesoreseso4
+
+# Organisational unit for profesoresbach1ciencias department
+dn: ou=profesoresbach1ciencias,dc=soler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: profesoresbach1ciencias
+
+# Organisational unit for profesoresbach1humanidades department
+dn: ou=profesoresbach1humanidades,dc=soler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: profesoresbach1humanidades
+
+# Organisational unit for profesoresbach2ciencias department
+dn: ou=profesoresbach2ciencias,dc=soler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: profesoresbach2ciencias
+
+# Organisational unit for profesoresbach2humanidades department
+dn: ou=profesoresbach2humanidades,dc=soler,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: profesoresbach2humanidades
